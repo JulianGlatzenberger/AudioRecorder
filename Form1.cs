@@ -462,6 +462,7 @@ namespace AudioRecorder
             //{
             //    progressBar1.Value = progressBar1.Value + 1;
             //}
+            
 
         }
 
