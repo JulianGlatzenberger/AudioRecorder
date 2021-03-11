@@ -37,3 +37,16 @@ U:\GitHub\AudioRecorder\obj\Debug\AudioRecorder.csproj.CoreCompileInputs.cache
 U:\GitHub\AudioRecorder\obj\Debug\AudioRecorder.csproj.CopyComplete
 U:\GitHub\AudioRecorder\obj\Debug\AudioRecorder.exe
 U:\GitHub\AudioRecorder\obj\Debug\AudioRecorder.pdb
+U:\Programming\GitHub\AudioRecorder\bin\Debug\AudioRecorder.exe.config
+U:\Programming\GitHub\AudioRecorder\bin\Debug\AudioRecorder.exe
+U:\Programming\GitHub\AudioRecorder\bin\Debug\AudioRecorder.pdb
+U:\Programming\GitHub\AudioRecorder\bin\Debug\NAudio.dll
+U:\Programming\GitHub\AudioRecorder\bin\Debug\System.ComponentModel.Composition.dll
+U:\Programming\GitHub\AudioRecorder\obj\Debug\AudioRecorder.csprojAssemblyReference.cache
+U:\Programming\GitHub\AudioRecorder\obj\Debug\AudioRecorder.Form1.resources
+U:\Programming\GitHub\AudioRecorder\obj\Debug\AudioRecorder.Properties.Resources.resources
+U:\Programming\GitHub\AudioRecorder\obj\Debug\AudioRecorder.csproj.GenerateResource.cache
+U:\Programming\GitHub\AudioRecorder\obj\Debug\AudioRecorder.csproj.CoreCompileInputs.cache
+U:\Programming\GitHub\AudioRecorder\obj\Debug\AudioRecorder.csproj.CopyComplete
+U:\Programming\GitHub\AudioRecorder\obj\Debug\AudioRecorder.exe
+U:\Programming\GitHub\AudioRecorder\obj\Debug\AudioRecorder.pdb

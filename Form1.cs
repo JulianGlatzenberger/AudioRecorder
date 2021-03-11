@@ -76,6 +76,7 @@ namespace AudioRecorder
             pictureBox1.Show();
 
             label6.Text = "Aktuell keine Aufnahme... Breit zum Aufnehmen";
+            label4.Text = "Kommt irgendwann ^_^";
 
             radioButtonWaveIn.CheckedChanged += (s, a) => Cleanup();
             radioButtonWasapiLoopback.CheckedChanged += (s, a) => Cleanup();
